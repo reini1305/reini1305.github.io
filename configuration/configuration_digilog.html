@@ -153,10 +153,12 @@ function saveOptions() {
 
 $().ready(function() {
 	$('#b-cancel').click(function() {
-		document.location = 'pebblejs://close#';
+		var return_to = getQueryParam('return_to', 'pebblejs://close#');
+    document.location = return_to;
 	});
 	$('#b-submit').click(function() {
-		document.location = 'pebblejs://close#' + escape(encodeURIComponent(JSON.stringify(saveOptions())));
+    var return_to = getQueryParam('return_to', 'pebblejs://close#');
+		document.location = return_to + escape(encodeURIComponent(JSON.stringify(saveOptions())));
 	});
 
 	// Setup Spectrum picker with Pebble Time Palette
