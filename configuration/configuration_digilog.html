@@ -174,7 +174,7 @@ $().ready(function() {
 	});
 	$('#b-submit').click(function() {
     var return_to = getQueryParam('return_to', 'pebblejs://close#');
-		document.location = return_to + escape(encodeURIComponent(JSON.stringify(saveOptions())));
+		document.location = return_to + (encodeURIComponent(JSON.stringify(saveOptions())));
 	});
 
 	// Setup Spectrum picker with Pebble Time Palette
