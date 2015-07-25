@@ -141,6 +141,22 @@ function getQueryVariable(variable) {
 	return '';
 }
 
+// Get query variables
+function getQueryParam(variable, defaultValue) {
+// Find all URL parameters
+var query = location.search.substring(1);
+var vars = query.split('&');
+for (var i = 0; i < vars.length; i++) {
+var pair = vars[i].split('=');
+
+// If the query variable parameter is found, decode it to use and return it for use
+if (pair[0] === variable) {
+return decodeURIComponent(pair[1]);
+}
+}
+return defaultValue || false;
+}
+
 function saveOptions() {
 	var options = {
 		'background_one': $('#background_one').spectrum("get").toHex(),
