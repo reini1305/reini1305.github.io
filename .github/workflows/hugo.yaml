@@ -101,7 +101,7 @@ jobs:
         run: |
           if [[ -f package-lock.json ]]; then
             echo "Installing Node.js dependencies..."
-            npm ci
+            npm install
           fi
 
       - name: Cache restore
