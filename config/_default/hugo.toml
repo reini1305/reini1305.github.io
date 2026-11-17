@@ -1,4 +1,4 @@
-baseURL = 'https://lowkey.nixentric.com/' # Change to your own domain
+baseURL = 'https://reini1305.github.io/'
 copyright = "{year}" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
 locale = 'en-US'
 defaultContentLanguage = 'en'
