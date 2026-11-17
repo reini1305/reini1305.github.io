@@ -1,8 +1,0 @@
-baseURL = 'https://reini1305.github.io/'
-locale = 'en-us'
-title = 'Christian Reinbachers Blog'
-theme = 'terminal'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
