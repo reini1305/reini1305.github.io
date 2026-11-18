@@ -152,6 +152,15 @@ Combining sci-fi inspired simplicity with traditional timepieces, "analog-ish" i
 
 [App store link](https://apps.repebble.com/analog-ish_581f405b1c08888f0300029c)
 
+## Clean Cut
+
+![](images/cleancut.png)
+
+Made due to a reddit request from /u/stegosaurusflex1 (who also gets the design credits). You can freely select the colors of hour, minute, background and seperator. The font is called "Peace Sans", made by Sergey Ryadovoy.
+
+[App store link](https://apps.repebble.com/clean-cut_5803cc5cc98866548c000141)
+[Source link](https://github.com/reini1305/cutting_edge)
+
 ## Strider HR
 
 ![](images/strider1.png) ![](images/strider2.png) ![](images/strider3.png)
