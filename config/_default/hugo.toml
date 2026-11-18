@@ -3,16 +3,17 @@ copyright = "{year}" # To make 2007 - 2022. Just add before {year} example: 2007
 locale = 'en-US'
 defaultContentLanguage = 'en'
 theme = 'lowkey'
-title = "Christian Reinbacher's Blog"
+title = "reini1305"
 enableRobotsTXT = true
 summaryLength = 15
 
 [pagination]
   pagerSize = 5
 
-# disqus is a comment system. see https://disqus.com
-[services.disqus]
-  shortname = ''
+[security]
+  [security.node]
+    [security.node.permissions]
+      disable = true
 
 [markup]
   [markup.highlight]
