@@ -26,7 +26,7 @@ Post about
 - Floppy Copier
 - Wordclock
 - Thermal Camera
-
+- Rocker plate cycling
 
 # Photography
 - Gameboy Camera
