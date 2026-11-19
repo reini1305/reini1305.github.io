@@ -15,7 +15,7 @@ Post about
 - myself
 
 # Projects
-- Meshtastic talk
+- [Meshtastic](/posts/meshtastic)
 - EP44 typewriter
 - Pedelec
 - Bluetooth Box

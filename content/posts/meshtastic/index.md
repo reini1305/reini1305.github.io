@@ -29,12 +29,14 @@ a [Seeed Studio SenseCAP Solar Node](https://meshtastic.org/docs/hardware/device
 
 In the meantime, I got a few more nodes to play with tracking and sending of telemetry and sensor data, all in all the setup is working well for more than half a year now. Even with only a few hours of sunshine now, the solar node's battery rarely falls below 90%.
 
+I have my mobile nodes setup as CLIENT_MUTE and my solar node as CLIENT_BASE, enabling [0-cost-hop](https://meshtastic.org/blog/zero-cost-hops-favorite-routers/) and the solar node with the big antenna work as my personal router.
+
 ## Presentation at Hackmas 2026
 
 In August 2026 I went to the [Hackmas](https://hack-mas.at) hacker camp, determined to give my first talk at a CCC venue. I prepared a presentation about everything I knew and liked about meshtastic by that time and here it is:
 {{< youtube Fjm4-i7OSJE>}}
 
-The slides can be found [here](/data/meshtastic.pdf).
+The slides can be found [here](/data/meshtastic.pdf). I also brought my [Meshtastic Typewriter](/posts/meshtastic-typewriter) and people had a lot of fun with it.
 
 ## Usecase
 
