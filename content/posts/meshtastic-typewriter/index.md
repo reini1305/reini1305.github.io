@@ -14,7 +14,7 @@ tags:
 
 After [playing around with Meshtastic](/posts/meshtastic) for a while and mainly consuming work of others, I decided it was time to make something new, something unprecedented. Meshtastic supports a serial interface to send receive messages as simple text over serial and allows to send text to the first public channel. I saw people utilize this interface on [old computers](https://www.youtube.com/watch?v=_k508Uti_yE) from the DOS/Windows 95 era (or even [C64s](https://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)) to interface via the serial console. Nice, but what if you could do it with a typewriter?
 
-My first plan was to get a cheap eletronic typewriter and add a serial interface by [tapping into the keyboard matrix with another micro controller](https://github.com/artillect/serial-typewriter). While looking for interestin typwriters, I stumbled over a [Brother EP44](https://typewriterdatabase.com/1984-brother-ep44.5403.typewriter) which, as a partytrick has a built-in Serial 25-pin interface to act as a terminal/printer. 
+My first plan was to get a cheap eletronic typewriter and add a serial interface by [tapping into the keyboard matrix with another micro controller](https://github.com/artillect/serial-typewriter). While looking for interesting typewriters, I stumbled upon a [Brother EP44](https://typewriterdatabase.com/1984-brother-ep44.5403.typewriter) which, as a party trick has a built-in Serial 25-pin interface to act as a terminal/printer. 
 
 ![](ep44.jpg)
 
