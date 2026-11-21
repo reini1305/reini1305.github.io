@@ -7,4 +7,6 @@ Hi I'm **Christian Reinbacher**
 
 ### Links
 
+[Read Books](/books)
+
 [Masala Brass Kollektiv](https://masalabrass.org)

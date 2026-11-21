@@ -16,7 +16,7 @@ Post about
 
 # Projects
 - [Meshtastic](/posts/meshtastic)
-- EP44 typewriter
+- EP44 typewriter as printer
 - Pedelec
 - Bluetooth Box
 - Gameboy games
