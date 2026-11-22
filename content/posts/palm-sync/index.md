@@ -1,5 +1,5 @@
 ---
-title: "Sync a Palm device in 2026"
+title: "Syncing a Palm device in 2026"
 date: 2026-11-22T11:07:22+01:00
 draft: false # Set 'false' to publish
 tableOfContents: false # Enable/disable Table of Contents
@@ -37,7 +37,7 @@ jpilot-sync -p /dev/ttyUSB1
 ~~~
 
 ## Installing files
-This can either be done via the GUI or by generating a file `~/.jpilot/jpilot.install` and then performing a sync as above
+This can either be done via the GUI or by generating a file `~/.jpilot/jpilot.install` which contains one path to a `.prc` or `.pdb` file per line, then performing a sync as above. This can be useful as a Makefile target when implementing your own software.
 
 ## Calendar Sync
 If you are like me and not yet ready to give up the modern amenities like having a calendar synced across devices, [Palm Calendar Sync](https://github.com/guruthree/palm-calendar-sync2) is what you want. The program is able to download any `.ics` file, parse it and write it in a format the Palm understands. My example config looks like:

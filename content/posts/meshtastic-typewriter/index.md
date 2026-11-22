@@ -10,6 +10,7 @@ tags:
   - meshtastic
   - ep44
   - typewriter
+  - retro computing
 ---
 
 After [playing around with Meshtastic](/posts/meshtastic) for a while and mainly consuming work of others, I decided it was time to make something new, something unprecedented. Meshtastic supports a serial interface to send receive messages as simple text over serial and allows to send text to the first public channel. I saw people utilize this interface on [old computers](https://www.youtube.com/watch?v=_k508Uti_yE) from the DOS/Windows 95 era (or even [C64s](https://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)) to interface via the serial console. Nice, but what if you could do it with a typewriter?
