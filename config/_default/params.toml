@@ -11,7 +11,7 @@ description = "Hello"
 avatar = "img/selfie2.png"
 
 #favicon
-favicon = "icons/favicon.ico"
+favicon = "icons/favicon.png"
 
 [emoji]
 enableEmoji = true
