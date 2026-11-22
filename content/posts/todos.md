@@ -39,3 +39,5 @@ Post about
   - depth reconstruction
 - what interests me today
 - perspective on PhD 10 years later
+
+<!-- {{< gallery match="*.png" thumbnailResizeOptions="600x600 q90 Lanczos" loadJQuery=true >}} -->
