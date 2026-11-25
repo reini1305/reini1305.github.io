@@ -12,5 +12,5 @@ title = 'Books'
 | Patrick Radden Keefe - *London Calling* | October |
 | James S. A. Corey - *The Faith of Beasts*  | August |
 | Cory Doctorov - *Enshittification* | July |
-| John Scalzi - *The Enf of All Things* | May |
+| John Scalzi - *The End of All Things* | May |
 | Sarah Goodyear, Doug Gordon - *Life after Cars* | January|
